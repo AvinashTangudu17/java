@@ -13,6 +13,7 @@ public abstract class Car {
 	 * 
 	 */
 	//Abstract methods to be implemented in class
+	
 	abstract void color();
 	abstract void model();
 	
