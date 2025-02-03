@@ -1,10 +1,10 @@
 /**
  * 
  */
-package com.wipro.java.oops;
+package com.wipro.java.oops.inheritance;
 
 /**
- * 
+ * Demonstrating inheritance in Java
  */
 
 public class Employee {
@@ -55,9 +55,6 @@ public class Employee {
 	/**
 	 * @param args
 	 */
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
+	
 
 }

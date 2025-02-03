@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.wipro.java.oops;
+package com.wipro.java.oops.inheritance;
 
 /**
  * Parent class - Employee
@@ -21,6 +21,7 @@ public class ProjectLead extends Employee {
   // The child object is intantiated from child constructor
   // Parent class consumes the properties and behavior of child class
     	
+    	 //  	Employee employee = (Employee) new ProjectLead();
     	
     	Employee employee = new ProjectLead();
     	employee.setId(100);
