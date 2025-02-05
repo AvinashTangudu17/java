@@ -15,6 +15,8 @@ public class ListOperations {
 		
 		List<Integer> l1 = new ArrayList<>();
 		
+		//Addding elements to list 1
+		
 		l1.add(0,1);
 		l1.add(1,2);
 		l1.add(2,3);
@@ -22,12 +24,13 @@ public class ListOperations {
 		l1.add(4);
 		l1.add(5);
 		
+		//it is used to get size of the list
 		System.out.println(l1.size());
 		
 		
 		List<Integer> l2 = new ArrayList<>();
 		
-		//Adding elements to list
+		//Adding elements to list 2
 		
 		l2.add(5);
 		l2.add(6);
