@@ -17,4 +17,5 @@ public abstract class Car {
 	abstract void color();
 	abstract void model();
 	
+	
 }
