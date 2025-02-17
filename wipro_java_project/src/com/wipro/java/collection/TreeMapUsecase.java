@@ -12,10 +12,10 @@ public class TreeMapUsecase {
         TreeMap<Integer, String> map = new TreeMap<>();
 
         // Adding some sample data to the TreeMap
-        map.put(1,"Pratik");
-        map.put(3, "Rahul ");
-        map.put(4, "Preeti");
-        map.put(2, "Manikanta");
+        map.put(1,"Avi");
+        map.put(3, " Shyam ");
+        map.put(4, "Ram");
+        map.put(2, "Louis");
 
         // Step 2: Displaying data from TreeMap
         // TreeMap automatically sorts the data based on the key (in ascending order).
